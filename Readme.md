@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Оксана Семоненко](https://up.htmlacademy.ru/javascript/9/user/182432).
-* Наставник: `Неизвестно`.
+* Наставник:  [Оксана Семоненко](https://up.htmlacademy.ru/javascript/9/user/182432).
 
 ---
 
